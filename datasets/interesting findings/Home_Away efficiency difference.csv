@@ -1,0 +1,634 @@
+PLAYER_NAME,TEAM_NAME,Efficiency_HOME,LOCATION_HOME,Efficiency_AWAY,LOCATION_AWAY,Efficiency_DIFF
+Mouhamed Gueye,Atlanta Hawks,-1.0,HOME,15.0,AWAY,16.0
+Nicolas Batum,LA Clippers,2.5,HOME,16.0,AWAY,13.5
+Jeff Dowtin Jr.,Philadelphia 76ers,16.0,HOME,2.62,AWAY,13.379999999999999
+Tristan Vukcevic,Washington Wizards,2.0,HOME,14.17,AWAY,12.17
+Taze Moore,Portland Trail Blazers,1.67,HOME,13.0,AWAY,11.33
+Shake Milton,Detroit Pistons,17.0,HOME,6.0,AWAY,11.0
+Dexter Dennis,Dallas Mavericks,-2.0,HOME,8.0,AWAY,10.0
+Marques Bolden,Charlotte Hornets,12.0,HOME,2.75,AWAY,9.25
+Quentin Grimes,Detroit Pistons,-1.0,HOME,7.0,AWAY,8.0
+Dylan Windler,Atlanta Hawks,4.4,HOME,12.0,AWAY,7.6
+Evan Fournier,New York Knicks,4.5,HOME,-3.0,AWAY,7.5
+Mason Jones,Sacramento Kings,-1.0,HOME,6.0,AWAY,7.0
+Taj Gibson,Detroit Pistons,9.5,HOME,3.0,AWAY,6.5
+Justin Champagnie,Washington Wizards,4.71,HOME,11.0,AWAY,6.29
+Anfernee Simons,Portland Trail Blazers,16.8,HOME,22.94,AWAY,6.140000000000001
+Bennedict Mathurin,Indiana Pacers,16.11,HOME,9.97,AWAY,6.139999999999999
+Mamadi Diakite,San Antonio Spurs,9.0,HOME,3.0,AWAY,6.0
+Javonte Green,Chicago Bulls,15.83,HOME,21.67,AWAY,5.840000000000002
+Shaedon Sharpe,Portland Trail Blazers,11.61,HOME,17.43,AWAY,5.82
+Ja Morant,Memphis Grizzlies,23.2,HOME,29.0,AWAY,5.800000000000001
+Royce O'Neale,Phoenix Suns,15.43,HOME,9.75,AWAY,5.68
+Stanley Umude,Detroit Pistons,8.82,HOME,3.31,AWAY,5.51
+Tre Mann,Oklahoma City Thunder,0.5,HOME,6.0,AWAY,5.5
+Marvin Bagley III,Washington Wizards,19.05,HOME,13.6,AWAY,5.450000000000001
+Jack White,Memphis Grizzlies,-2.0,HOME,3.33,AWAY,5.33
+Simone Fontecchio,Detroit Pistons,11.6,HOME,16.91,AWAY,5.3100000000000005
+Jimmy Butler,Miami Heat,20.85,HOME,26.15,AWAY,5.299999999999997
+Buddy Boeheim,Detroit Pistons,0.5,HOME,5.75,AWAY,5.25
+Duncan Robinson,Miami Heat,9.63,HOME,14.82,AWAY,5.1899999999999995
+Devin Booker,Phoenix Suns,29.41,HOME,24.33,AWAY,5.080000000000002
+Kevon Harris,Orlando Magic,0.0,HOME,5.0,AWAY,5.0
+Adam Flagler,Oklahoma City Thunder,3.0,HOME,-2.0,AWAY,5.0
+Greg Brown III,Dallas Mavericks,-0.5,HOME,4.5,AWAY,5.0
+Kelly Olynyk,Toronto Raptors,20.06,HOME,15.08,AWAY,4.979999999999999
+Kyle Lowry,Miami Heat,14.11,HOME,9.22,AWAY,4.889999999999999
+Scottie Barnes,Toronto Raptors,22.19,HOME,27.03,AWAY,4.84
+Bismack Biyombo,Oklahoma City Thunder,4.83,HOME,0.0,AWAY,4.83
+Vince Williams Jr.,Memphis Grizzlies,11.62,HOME,16.43,AWAY,4.8100000000000005
+Tyrese Haliburton,Indiana Pacers,23.48,HOME,28.29,AWAY,4.809999999999999
+Luka Doncic,Dallas Mavericks,34.68,HOME,39.44,AWAY,4.759999999999998
+Johnny Juzang,Utah Jazz,9.5,HOME,4.75,AWAY,4.75
+Keegan Murray,Sacramento Kings,18.54,HOME,13.9,AWAY,4.639999999999999
+Daniel Gafford,Dallas Mavericks,21.12,HOME,16.5,AWAY,4.620000000000001
+Jared Butler,Washington Wizards,5.55,HOME,10.15,AWAY,4.6000000000000005
+Brandon Clarke,Memphis Grizzlies,18.0,HOME,13.4,AWAY,4.6
+Franz Wagner,Orlando Magic,17.27,HOME,21.85,AWAY,4.580000000000002
+Bradley Beal,Phoenix Suns,16.88,HOME,21.41,AWAY,4.530000000000001
+RaiQuan Gray,San Antonio Spurs,8.5,HOME,13.0,AWAY,4.5
+Zach Collins,San Antonio Spurs,15.91,HOME,11.42,AWAY,4.49
+Khris Middleton,Milwaukee Bucks,15.6,HOME,20.08,AWAY,4.479999999999999
+Paul George,LA Clippers,24.77,HOME,20.32,AWAY,4.449999999999999
+Buddy Hield,Philadelphia 76ers,10.06,HOME,14.5,AWAY,4.4399999999999995
+Jayson Tatum,Boston Celtics,25.0,HOME,29.33,AWAY,4.329999999999998
+Patrick Baldwin Jr.,Washington Wizards,4.23,HOME,8.5,AWAY,4.27
+Delon Wright,Washington Wizards,5.5,HOME,9.73,AWAY,4.23
+Jalen Green,Houston Rockets,15.09,HOME,19.31,AWAY,4.219999999999999
+Dominick Barlow,San Antonio Spurs,5.24,HOME,9.44,AWAY,4.199999999999999
+Amen Thompson,Houston Rockets,13.18,HOME,17.36,AWAY,4.18
+Jontay Porter,Toronto Raptors,5.64,HOME,9.8,AWAY,4.160000000000001
+Trevelin Queen,Orlando Magic,1.67,HOME,5.75,AWAY,4.08
+Dennis Schroder,Brooklyn Nets,17.0,HOME,12.93,AWAY,4.07
+Sandro Mamukelashvili,San Antonio Spurs,8.33,HOME,4.32,AWAY,4.01
+Marcus Smart,Memphis Grizzlies,11.2,HOME,15.2,AWAY,4.0
+Wenyen Gabriel,Memphis Grizzlies,2.0,HOME,6.0,AWAY,4.0
+Danny Green,Philadelphia 76ers,-1.0,HOME,3.0,AWAY,4.0
+Jason Preston,Utah Jazz,7.0,HOME,3.0,AWAY,4.0
+Dylan Windler,Los Angeles Lakers,5.0,HOME,1.0,AWAY,4.0
+Ryan Rollins,Milwaukee Bucks,4.0,HOME,0.0,AWAY,4.0
+Dariq Whitehead,Brooklyn Nets,5.0,HOME,1.0,AWAY,4.0
+Isaiah Mobley,Cleveland Cavaliers,0.83,HOME,4.75,AWAY,3.92
+Lonnie Walker IV,Brooklyn Nets,9.81,HOME,5.96,AWAY,3.8500000000000005
+DeJon Jarreau,Memphis Grizzlies,6.4,HOME,10.25,AWAY,3.8499999999999996
+Chris Boucher,Toronto Raptors,6.55,HOME,10.36,AWAY,3.8099999999999996
+Devonte' Graham,San Antonio Spurs,7.18,HOME,3.42,AWAY,3.76
+Monte Morris,Detroit Pistons,2.33,HOME,6.0,AWAY,3.67
+Anthony Gill,Washington Wizards,3.0,HOME,6.62,AWAY,3.62
+Malik Beasley,Milwaukee Bucks,9.57,HOME,13.16,AWAY,3.59
+Josh Green,Dallas Mavericks,8.23,HOME,11.81,AWAY,3.58
+Deni Avdija,Washington Wizards,20.12,HOME,16.56,AWAY,3.5600000000000023
+Bones Hyland,LA Clippers,8.25,HOME,4.71,AWAY,3.54
+Keon Johnson,Brooklyn Nets,4.5,HOME,8.0,AWAY,3.5
+Joel Embiid,Philadelphia 76ers,36.83,HOME,40.33,AWAY,3.5
+R.J. Hampton,Miami Heat,3.0,HOME,-0.5,AWAY,3.5
+Robert Covington,LA Clippers,9.5,HOME,6.0,AWAY,3.5
+Immanuel Quickley,Toronto Raptors,22.06,HOME,18.6,AWAY,3.4599999999999973
+Santi Aldama,Memphis Grizzlies,15.21,HOME,11.78,AWAY,3.4300000000000015
+Patty Mills,Miami Heat,3.9,HOME,7.33,AWAY,3.43
+Maozinha Pereira,Memphis Grizzlies,8.33,HOME,11.75,AWAY,3.42
+Nassir Little,Phoenix Suns,6.11,HOME,2.74,AWAY,3.37
+Harrison Barnes,Sacramento Kings,13.13,HOME,9.77,AWAY,3.360000000000001
+Matt Ryan,New Orleans Pelicans,6.43,HOME,3.07,AWAY,3.36
+Jake LaRavia,Memphis Grizzlies,8.0,HOME,11.35,AWAY,3.3499999999999996
+Kira Lewis Jr.,Utah Jazz,6.2,HOME,2.86,AWAY,3.3400000000000003
+Cam Reddish,Los Angeles Lakers,4.13,HOME,7.44,AWAY,3.3100000000000005
+Nikola Jokic,Denver Nuggets,37.11,HOME,40.36,AWAY,3.25
+Matisse Thybulle,Portland Trail Blazers,6.56,HOME,9.79,AWAY,3.2299999999999995
+Collin Gillespie,Denver Nuggets,2.67,HOME,5.89,AWAY,3.2199999999999998
+Chuma Okeke,Orlando Magic,4.78,HOME,1.59,AWAY,3.1900000000000004
+Ish Wainright,Portland Trail Blazers,3.17,HOME,0.0,AWAY,3.17
+Jaden Springer,Boston Celtics,5.17,HOME,2.0,AWAY,3.17
+Jacob Toppin,New York Knicks,3.17,HOME,0.0,AWAY,3.17
+John Collins,Utah Jazz,17.42,HOME,20.57,AWAY,3.1499999999999986
+Olivier-Maxence Prosper,Dallas Mavericks,2.15,HOME,5.25,AWAY,3.1
+Thaddeus Young,Phoenix Suns,6.75,HOME,3.67,AWAY,3.08
+Malcolm Brogdon,Portland Trail Blazers,15.43,HOME,18.5,AWAY,3.0700000000000003
+Russell Westbrook,LA Clippers,12.04,HOME,15.1,AWAY,3.0600000000000005
+Terry Rozier,Charlotte Hornets,21.22,HOME,24.25,AWAY,3.030000000000001
+Walker Kessler,Utah Jazz,14.28,HOME,17.29,AWAY,3.01
+Onuralp Bitim,Chicago Bulls,4.88,HOME,1.87,AWAY,3.01
+Jamaree Bouyea,San Antonio Spurs,8.0,HOME,5.0,AWAY,3.0
+D’Moi Hodge,Los Angeles Lakers,0.0,HOME,3.0,AWAY,3.0
+Delon Wright,Miami Heat,7.0,HOME,10.0,AWAY,3.0
+Cody Martin,Charlotte Hornets,8.64,HOME,11.64,AWAY,3.0
+JD Davison,Boston Celtics,5.0,HOME,2.0,AWAY,3.0
+David Duke Jr.,San Antonio Spurs,9.5,HOME,6.5,AWAY,3.0
+Jarrett Allen,Cleveland Cavaliers,26.42,HOME,23.43,AWAY,2.990000000000002
+Jaylen Nowell,Memphis Grizzlies,6.75,HOME,3.8,AWAY,2.95
+Ayo Dosunmu,Chicago Bulls,11.63,HOME,14.56,AWAY,2.9299999999999997
+Ivica Zubac,LA Clippers,21.04,HOME,18.12,AWAY,2.919999999999998
+Garrett Temple,Toronto Raptors,5.54,HOME,2.64,AWAY,2.9
+Scotty Pippen Jr.,Memphis Grizzlies,13.2,HOME,16.09,AWAY,2.8900000000000006
+James Wiseman,Detroit Pistons,9.28,HOME,12.13,AWAY,2.8500000000000014
+Brandon Miller,Charlotte Hornets,16.31,HOME,13.49,AWAY,2.8199999999999985
+Jakob Poeltl,Toronto Raptors,17.77,HOME,20.57,AWAY,2.8000000000000007
+Armoni Brooks,Brooklyn Nets,1.8,HOME,4.6,AWAY,2.8
+Bruce Brown,Toronto Raptors,13.0,HOME,10.21,AWAY,2.789999999999999
+Bogdan Bogdanovic,Atlanta Hawks,16.78,HOME,14.0,AWAY,2.780000000000001
+Bojan Bogdanovic,Detroit Pistons,14.6,HOME,17.38,AWAY,2.7799999999999994
+Aleksej Pokusevski,Charlotte Hornets,9.0,HOME,11.75,AWAY,2.75
+James Harden,LA Clippers,24.03,HOME,21.28,AWAY,2.75
+P.J. Washington,Charlotte Hornets,15.18,HOME,12.44,AWAY,2.74
+Chet Holmgren,Oklahoma City Thunder,20.73,HOME,23.46,AWAY,2.7300000000000004
+Jalen Williams,Oklahoma City Thunder,22.06,HOME,19.34,AWAY,2.719999999999999
+Jamal Murray,Denver Nuggets,21.11,HOME,23.83,AWAY,2.719999999999999
+Max Strus,Cleveland Cavaliers,15.68,HOME,12.97,AWAY,2.709999999999999
+Alex Caruso,Chicago Bulls,15.77,HOME,13.08,AWAY,2.6899999999999995
+Terry Rozier,Miami Heat,15.47,HOME,18.14,AWAY,2.67
+Alex Fudge,Los Angeles Lakers,0.67,HOME,-2.0,AWAY,2.67
+Theo Maledon,Phoenix Suns,-0.67,HOME,2.0,AWAY,2.67
+D.J. Carton,Toronto Raptors,3.67,HOME,1.0,AWAY,2.67
+Ausar Thompson,Detroit Pistons,11.66,HOME,14.32,AWAY,2.66
+Ben Sheppard,Indiana Pacers,6.07,HOME,3.43,AWAY,2.64
+Moses Brown,Portland Trail Blazers,6.07,HOME,3.43,AWAY,2.64
+GG Jackson II,Memphis Grizzlies,13.57,HOME,10.96,AWAY,2.6099999999999994
+Nikola Vucevic,Chicago Bulls,24.67,HOME,22.16,AWAY,2.5100000000000016
+Jaren Jackson Jr.,Memphis Grizzlies,18.5,HOME,21.0,AWAY,2.5
+Marcus Morris Sr.,Cleveland Cavaliers,6.33,HOME,3.83,AWAY,2.5
+P.J. Tucker,Philadelphia 76ers,5.0,HOME,7.5,AWAY,2.5
+Henri Drell,Chicago Bulls,4.5,HOME,2.0,AWAY,2.5
+Kira Lewis Jr.,New Orleans Pelicans,3.3,HOME,0.8,AWAY,2.5
+Lamar Stevens,Memphis Grizzlies,10.5,HOME,13.0,AWAY,2.5
+Lamar Stevens,Boston Celtics,2.22,HOME,4.7,AWAY,2.48
+Kevin Knox II,Detroit Pistons,8.12,HOME,5.64,AWAY,2.4799999999999995
+Joe Ingles,Orlando Magic,5.94,HOME,8.41,AWAY,2.4699999999999998
+Doug McDermott,Indiana Pacers,4.18,HOME,1.71,AWAY,2.4699999999999998
+Robert Covington,Philadelphia 76ers,9.21,HOME,6.75,AWAY,2.460000000000001
+Stephen Curry,Golden State Warriors,24.59,HOME,22.14,AWAY,2.4499999999999993
+Charles Bassey,San Antonio Spurs,7.42,HOME,9.86,AWAY,2.4399999999999995
+Udoka Azubuike,Phoenix Suns,4.86,HOME,2.44,AWAY,2.4200000000000004
+Malachi Flynn,New York Knicks,3.17,HOME,0.75,AWAY,2.42
+Luke Kornet,Boston Celtics,11.92,HOME,9.5,AWAY,2.42
+Jae Crowder,Milwaukee Bucks,8.9,HOME,6.5,AWAY,2.4000000000000004
+Kobe Bufkin,Atlanta Hawks,3.5,HOME,5.89,AWAY,2.3899999999999997
+Naji Marshall,New Orleans Pelicans,10.43,HOME,8.06,AWAY,2.369999999999999
+JaVale McGee,Sacramento Kings,6.9,HOME,4.54,AWAY,2.3600000000000003
+Trey Jemison,Memphis Grizzlies,10.64,HOME,13.0,AWAY,2.3599999999999994
+Micah Potter,Utah Jazz,6.57,HOME,4.22,AWAY,2.3500000000000005
+De'Anthony Melton,Philadelphia 76ers,11.5,HOME,13.83,AWAY,2.33
+Pete Nance,Cleveland Cavaliers,-1.0,HOME,1.33,AWAY,2.33
+T.J. McConnell,Indiana Pacers,15.35,HOME,13.03,AWAY,2.3200000000000003
+Kevin Durant,Phoenix Suns,26.43,HOME,28.75,AWAY,2.3200000000000003
+OG Anunoby,New York Knicks,14.08,HOME,16.4,AWAY,2.3199999999999985
+Day'Ron Sharpe,Brooklyn Nets,12.9,HOME,10.59,AWAY,2.3100000000000005
+Moritz Wagner,Orlando Magic,11.4,HOME,13.71,AWAY,2.3100000000000005
+Malik Williams,Toronto Raptors,5.8,HOME,3.5,AWAY,2.3
+Eric Gordon,Phoenix Suns,11.12,HOME,8.83,AWAY,2.289999999999999
+Brandon Williams,Dallas Mavericks,1.22,HOME,3.5,AWAY,2.2800000000000002
+Emoni Bates,Cleveland Cavaliers,0.17,HOME,2.44,AWAY,2.27
+Jeremiah Robinson-Earl,New Orleans Pelicans,2.84,HOME,5.1,AWAY,2.26
+P.J. Washington,Dallas Mavericks,12.82,HOME,15.08,AWAY,2.26
+Jordan Poole,Washington Wizards,15.17,HOME,12.91,AWAY,2.26
+Marvin Bagley III,Detroit Pistons,11.07,HOME,13.33,AWAY,2.26
+Jordan Nwora,Indiana Pacers,5.92,HOME,3.67,AWAY,2.25
+Payton Pritchard,Boston Celtics,13.19,HOME,10.94,AWAY,2.25
+Skylar Mays,Los Angeles Lakers,3.0,HOME,0.75,AWAY,2.25
+Alperen Sengun,Houston Rockets,26.86,HOME,24.61,AWAY,2.25
+Amari Bailey,Charlotte Hornets,3.0,HOME,0.75,AWAY,2.25
+Timmy Allen,Memphis Grizzlies,2.0,HOME,4.25,AWAY,2.25
+Boban Marjanovic,Houston Rockets,5.25,HOME,3.0,AWAY,2.25
+Dalano Banton,Portland Trail Blazers,13.83,HOME,16.08,AWAY,2.2499999999999982
+Kyle Anderson,Minnesota Timberwolves,9.93,HOME,12.17,AWAY,2.24
+Sasha Vezenkov,Sacramento Kings,6.95,HOME,4.71,AWAY,2.24
+Keyonte George,Utah Jazz,12.32,HOME,10.11,AWAY,2.210000000000001
+Andrew Wiggins,Golden State Warriors,14.0,HOME,11.79,AWAY,2.210000000000001
+Garrison Mathews,Atlanta Hawks,6.23,HOME,4.03,AWAY,2.2
+Bol Bol,Phoenix Suns,6.47,HOME,8.67,AWAY,2.2
+Clint Capela,Atlanta Hawks,20.68,HOME,18.48,AWAY,2.1999999999999993
+Victor Wembanyama,San Antonio Spurs,25.91,HOME,28.11,AWAY,2.1999999999999993
+Michael Porter Jr.,Denver Nuggets,17.22,HOME,19.4,AWAY,2.1799999999999997
+Andrew Nembhard,Indiana Pacers,12.18,HOME,10.02,AWAY,2.16
+Cedi Osman,San Antonio Spurs,6.79,HOME,8.95,AWAY,2.1599999999999993
+Trae Young,Atlanta Hawks,23.54,HOME,25.67,AWAY,2.1300000000000026
+Royce O'Neale,Brooklyn Nets,9.82,HOME,11.95,AWAY,2.129999999999999
+Damian Lillard,Milwaukee Bucks,24.59,HOME,22.47,AWAY,2.120000000000001
+Malaki Branham,San Antonio Spurs,6.57,HOME,8.68,AWAY,2.1099999999999994
+Onyeka Okongwu,Atlanta Hawks,15.04,HOME,17.14,AWAY,2.1000000000000014
+Goga Bitadze,Orlando Magic,8.93,HOME,11.03,AWAY,2.0999999999999996
+Julius Randle,New York Knicks,23.46,HOME,25.55,AWAY,2.09
+Chris Paul,Golden State Warriors,16.52,HOME,14.43,AWAY,2.09
+D'Angelo Russell,Los Angeles Lakers,17.47,HOME,19.55,AWAY,2.080000000000002
+Alondes Williams,Miami Heat,0.75,HOME,-1.33,AWAY,2.08
+Josh Hart,New York Knicks,17.44,HOME,15.39,AWAY,2.0500000000000007
+Marcus Morris Sr.,Philadelphia 76ers,8.38,HOME,6.33,AWAY,2.0500000000000007
+Davis Bertans,Charlotte Hornets,6.33,HOME,8.38,AWAY,2.0500000000000007
+Jrue Holiday,Boston Celtics,15.88,HOME,17.93,AWAY,2.049999999999999
+Aaron Holiday,Houston Rockets,7.81,HOME,5.78,AWAY,2.0299999999999994
+Draymond Green,Golden State Warriors,16.44,HOME,18.47,AWAY,2.0299999999999976
+Bobby Portis,Milwaukee Bucks,15.84,HOME,17.86,AWAY,2.0199999999999996
+Jamaree Bouyea,Portland Trail Blazers,1.67,HOME,-0.33,AWAY,2.0
+Quenton Jackson,Indiana Pacers,2.0,HOME,4.0,AWAY,2.0
+Kenneth Lofton Jr.,Philadelphia 76ers,-2.0,HOME,0.0,AWAY,2.0
+Kawhi Leonard,LA Clippers,26.72,HOME,24.72,AWAY,2.0
+Dereon Seabron,New Orleans Pelicans,4.5,HOME,2.5,AWAY,2.0
+Trey Jemison,Washington Wizards,-1.0,HOME,1.0,AWAY,2.0
+Marques Bolden,Milwaukee Bucks,0.0,HOME,2.0,AWAY,2.0
+Dylan Windler,New York Knicks,0.0,HOME,2.0,AWAY,2.0
+Shaquille Harrison,Memphis Grizzlies,2.0,HOME,0.0,AWAY,2.0
+Toumani Camara,Portland Trail Blazers,9.25,HOME,11.23,AWAY,1.9800000000000004
+Thaddeus Young,Toronto Raptors,10.38,HOME,8.4,AWAY,1.9800000000000004
+Miles Bridges,Charlotte Hornets,20.14,HOME,22.12,AWAY,1.9800000000000004
+Josh Giddey,Oklahoma City Thunder,17.8,HOME,15.82,AWAY,1.9800000000000004
+Moussa Diabate,LA Clippers,3.2,HOME,5.17,AWAY,1.9699999999999998
+Keon Ellis,Sacramento Kings,8.5,HOME,6.55,AWAY,1.9500000000000002
+Jordan Walsh,Boston Celtics,4.75,HOME,2.8,AWAY,1.9500000000000002
+Trey Murphy III,New Orleans Pelicans,15.14,HOME,17.07,AWAY,1.9299999999999997
+Wesley Matthews,Atlanta Hawks,4.68,HOME,2.76,AWAY,1.92
+Dalen Terry,Chicago Bulls,3.79,HOME,5.7,AWAY,1.9100000000000001
+Jonathan Kuminga,Golden State Warriors,17.23,HOME,15.33,AWAY,1.9000000000000004
+Zeke Nnaji,Denver Nuggets,3.85,HOME,5.75,AWAY,1.9
+Ish Smith,Charlotte Hornets,6.35,HOME,4.47,AWAY,1.88
+Rui Hachimura,Los Angeles Lakers,15.34,HOME,13.46,AWAY,1.879999999999999
+Naz Reid,Minnesota Timberwolves,15.18,HOME,13.3,AWAY,1.879999999999999
+Jalen Hood-Schifino,Los Angeles Lakers,-0.86,HOME,1.0,AWAY,1.8599999999999999
+Scoot Henderson,Portland Trail Blazers,12.39,HOME,10.54,AWAY,1.8500000000000014
+Mike Muscala,Detroit Pistons,3.4,HOME,5.25,AWAY,1.85
+Kyle Lowry,Philadelphia 76ers,12.58,HOME,10.73,AWAY,1.8499999999999996
+Jalen Slawson,Sacramento Kings,0.33,HOME,2.17,AWAY,1.8399999999999999
+Seth Curry,Dallas Mavericks,3.12,HOME,4.95,AWAY,1.83
+TyTy Washington Jr.,Milwaukee Bucks,1.5,HOME,-0.33,AWAY,1.83
+Duop Reath,Portland Trail Blazers,8.98,HOME,10.81,AWAY,1.83
+Max Christie,Los Angeles Lakers,4.12,HOME,5.94,AWAY,1.8200000000000003
+Spencer Dinwiddie,Brooklyn Nets,15.3,HOME,13.48,AWAY,1.8200000000000003
+Jermaine Samuels Jr.,Houston Rockets,2.82,HOME,1.0,AWAY,1.8199999999999998
+Nick Richards,Charlotte Hornets,15.69,HOME,17.5,AWAY,1.8100000000000005
+Chris Duarte,Sacramento Kings,3.38,HOME,5.17,AWAY,1.79
+Jalen Wilson,Brooklyn Nets,7.27,HOME,5.48,AWAY,1.7899999999999991
+Richaun Holmes,Washington Wizards,11.23,HOME,13.0,AWAY,1.7699999999999996
+Myles Turner,Indiana Pacers,18.71,HOME,20.48,AWAY,1.7699999999999996
+Pat Spencer,Golden State Warriors,0.5,HOME,2.25,AWAY,1.75
+Dante Exum,Dallas Mavericks,9.38,HOME,11.13,AWAY,1.75
+Dru Smith,Miami Heat,7.0,HOME,5.25,AWAY,1.75
+Oscar Tshiebwe,Indiana Pacers,3.5,HOME,5.25,AWAY,1.75
+Gui Santos,Golden State Warriors,6.11,HOME,4.36,AWAY,1.75
+Klay Thompson,Golden State Warriors,13.53,HOME,15.27,AWAY,1.7400000000000002
+Jalen Brunson,New York Knicks,24.8,HOME,26.53,AWAY,1.7300000000000004
+Jordan Goodwin,Memphis Grizzlies,13.75,HOME,15.46,AWAY,1.7100000000000009
+DaQuan Jeffries,New York Knicks,-0.38,HOME,1.33,AWAY,1.71
+Marcus Sasser,Detroit Pistons,9.49,HOME,7.78,AWAY,1.71
+Leonard Miller,Minnesota Timberwolves,3.5,HOME,1.8,AWAY,1.7
+Zach LaVine,Chicago Bulls,19.62,HOME,17.92,AWAY,1.6999999999999993
+Markelle Fultz,Orlando Magic,10.55,HOME,8.86,AWAY,1.6900000000000013
+Jordan Clarkson,Utah Jazz,15.36,HOME,13.67,AWAY,1.6899999999999995
+Patty Mills,Atlanta Hawks,3.78,HOME,2.1,AWAY,1.6799999999999997
+Harry Giles III,Brooklyn Nets,3.92,HOME,2.25,AWAY,1.67
+Ish Wainright,Phoenix Suns,0.0,HOME,1.67,AWAY,1.67
+Shake Milton,New York Knicks,2.0,HOME,3.67,AWAY,1.67
+Ibou Badji,Portland Trail Blazers,4.79,HOME,3.12,AWAY,1.67
+Obi Toppin,Indiana Pacers,11.82,HOME,13.48,AWAY,1.6600000000000001
+Derrick Rose,Memphis Grizzlies,7.62,HOME,9.27,AWAY,1.6499999999999995
+Deandre Ayton,Portland Trail Blazers,22.68,HOME,24.33,AWAY,1.6499999999999986
+Ben Simmons,Brooklyn Nets,15.86,HOME,17.5,AWAY,1.6400000000000006
+Blake Wesley,San Antonio Spurs,5.24,HOME,6.88,AWAY,1.6399999999999997
+Mouhamadou Gueye,Toronto Raptors,2.38,HOME,4.0,AWAY,1.62
+David Roddy,Memphis Grizzlies,9.33,HOME,7.71,AWAY,1.62
+Troy Brown Jr.,Detroit Pistons,6.2,HOME,4.58,AWAY,1.62
+Darius Garland,Cleveland Cavaliers,17.71,HOME,16.1,AWAY,1.6099999999999994
+Leaky Black,Charlotte Hornets,5.31,HOME,3.7,AWAY,1.6099999999999994
+Kris Murray,Portland Trail Blazers,8.03,HOME,6.42,AWAY,1.6099999999999994
+Kyrie Irving,Dallas Mavericks,24.88,HOME,26.48,AWAY,1.6000000000000014
+Cole Swider,Miami Heat,2.1,HOME,0.5,AWAY,1.6
+Wendell Carter Jr.,Orlando Magic,15.89,HOME,14.3,AWAY,1.5899999999999999
+John Konchar,Memphis Grizzlies,10.52,HOME,8.93,AWAY,1.5899999999999999
+Maxi Kleber,Dallas Mavericks,6.83,HOME,8.42,AWAY,1.5899999999999999
+Nic Claxton,Brooklyn Nets,20.24,HOME,21.82,AWAY,1.5800000000000018
+Andre Drummond,Chicago Bulls,15.36,HOME,13.79,AWAY,1.5700000000000003
+De'Andre Hunter,Atlanta Hawks,14.5,HOME,12.93,AWAY,1.5700000000000003
+P.J. Tucker,LA Clippers,5.09,HOME,3.53,AWAY,1.56
+Kelly Oubre Jr.,Philadelphia 76ers,13.55,HOME,15.11,AWAY,1.5599999999999987
+Brandon Ingram,New Orleans Pelicans,22.03,HOME,20.48,AWAY,1.5500000000000007
+Vasilije Micic,Oklahoma City Thunder,4.93,HOME,3.38,AWAY,1.5499999999999998
+T.J. Warren,Minnesota Timberwolves,4.88,HOME,3.33,AWAY,1.5499999999999998
+Kenrich Williams,Oklahoma City Thunder,7.78,HOME,6.24,AWAY,1.54
+Aaron Wiggins,Oklahoma City Thunder,9.16,HOME,7.62,AWAY,1.54
+MarJon Beauchamp,Milwaukee Bucks,5.67,HOME,4.14,AWAY,1.5300000000000002
+Brandon Boston Jr.,LA Clippers,4.64,HOME,3.11,AWAY,1.5299999999999998
+Tyus Jones,Washington Wizards,16.55,HOME,18.08,AWAY,1.5299999999999976
+Keita Bates-Diop,Phoenix Suns,5.27,HOME,6.79,AWAY,1.5200000000000005
+Cam Whitmore,Houston Rockets,11.42,HOME,9.91,AWAY,1.5099999999999998
+Jaylen Brown,Boston Celtics,22.07,HOME,20.57,AWAY,1.5
+Matt Hurt,Memphis Grizzlies,5.0,HOME,3.5,AWAY,1.5
+Ryan Rollins,Washington Wizards,4.5,HOME,6.0,AWAY,1.5
+Jevon Carter,Chicago Bulls,3.33,HOME,4.82,AWAY,1.4900000000000002
+Kevin Huerter,Sacramento Kings,10.73,HOME,12.21,AWAY,1.4800000000000004
+Noah Clowney,Brooklyn Nets,8.92,HOME,7.45,AWAY,1.4699999999999998
+Malik Monk,Sacramento Kings,14.38,HOME,15.85,AWAY,1.4699999999999989
+Ochai Agbaji,Toronto Raptors,7.53,HOME,6.08,AWAY,1.4500000000000002
+Caleb Martin,Miami Heat,11.97,HOME,10.53,AWAY,1.4400000000000013
+Precious Achiuwa,New York Knicks,12.46,HOME,13.9,AWAY,1.4399999999999995
+Grayson Allen,Phoenix Suns,15.17,HOME,16.6,AWAY,1.4300000000000015
+Kenneth Lofton Jr.,Memphis Grizzlies,1.88,HOME,3.29,AWAY,1.4100000000000001
+Vit Krejci,Atlanta Hawks,8.79,HOME,7.38,AWAY,1.4099999999999993
+Zavier Simpson,Memphis Grizzlies,6.0,HOME,7.4,AWAY,1.4000000000000004
+Darius Bazley,Utah Jazz,12.4,HOME,11.0,AWAY,1.4000000000000004
+Seth Curry,Charlotte Hornets,8.0,HOME,9.4,AWAY,1.4000000000000004
+Mike Conley,Minnesota Timberwolves,14.85,HOME,16.25,AWAY,1.4000000000000004
+E.J. Liddell,New Orleans Pelicans,0.0,HOME,1.4,AWAY,1.4
+Trendon Watford,Brooklyn Nets,7.64,HOME,9.04,AWAY,1.3999999999999995
+Nickeil Alexander-Walker,Minnesota Timberwolves,9.68,HOME,8.29,AWAY,1.3900000000000006
+Donovan Mitchell,Cleveland Cavaliers,25.24,HOME,26.62,AWAY,1.3800000000000026
+Dario Saric,Golden State Warriors,9.93,HOME,11.31,AWAY,1.3800000000000008
+Monte Morris,Minnesota Timberwolves,7.56,HOME,6.18,AWAY,1.38
+Kendall Brown,Indiana Pacers,2.0,HOME,0.62,AWAY,1.38
+Isaiah Stewart,Detroit Pistons,15.0,HOME,13.63,AWAY,1.3699999999999992
+Furkan Korkmaz,Philadelphia 76ers,2.06,HOME,3.42,AWAY,1.3599999999999999
+Giannis Antetokounmpo,Milwaukee Bucks,35.74,HOME,37.09,AWAY,1.3500000000000014
+Jeff Green,Houston Rockets,7.41,HOME,6.06,AWAY,1.3500000000000005
+Theo Maledon,Charlotte Hornets,3.25,HOME,4.6,AWAY,1.3499999999999996
+Ryan Arcidiacono,New York Knicks,0.77,HOME,-0.57,AWAY,1.3399999999999999
+Jonas Valanciunas,New Orleans Pelicans,17.98,HOME,19.32,AWAY,1.3399999999999999
+Jaden McDaniels,Minnesota Timberwolves,9.9,HOME,11.24,AWAY,1.3399999999999999
+Thomas Bryant,Miami Heat,8.87,HOME,7.53,AWAY,1.339999999999999
+Jacob Gilyard,Brooklyn Nets,1.0,HOME,2.33,AWAY,1.33
+Admiral Schofield,Orlando Magic,0.29,HOME,1.62,AWAY,1.33
+Svi Mykhailiuk,Boston Celtics,4.87,HOME,3.54,AWAY,1.33
+Jamal Cain,Miami Heat,3.38,HOME,4.7,AWAY,1.3200000000000003
+JT Thor,Charlotte Hornets,5.03,HOME,3.71,AWAY,1.3200000000000003
+Kevin Love,Miami Heat,13.31,HOME,12.0,AWAY,1.3100000000000005
+Jared Rhoden,Detroit Pistons,6.6,HOME,5.29,AWAY,1.3099999999999996
+Talen Horton-Tucker,Utah Jazz,9.41,HOME,10.71,AWAY,1.3000000000000007
+Bilal Coulibaly,Washington Wizards,10.52,HOME,9.22,AWAY,1.299999999999999
+Paul Reed,Philadelphia 76ers,13.31,HOME,12.02,AWAY,1.290000000000001
+Davis Bertans,Oklahoma City Thunder,4.0,HOME,2.71,AWAY,1.29
+Kyle Kuzma,Washington Wizards,21.16,HOME,19.88,AWAY,1.2800000000000011
+Karl-Anthony Towns,Minnesota Timberwolves,24.03,HOME,22.77,AWAY,1.2600000000000016
+David Roddy,Phoenix Suns,2.17,HOME,0.91,AWAY,1.2599999999999998
+Jalen Smith,Indiana Pacers,14.11,HOME,12.85,AWAY,1.2599999999999998
+Jordan Miller,LA Clippers,1.0,HOME,2.25,AWAY,1.25
+Robert Williams III,Portland Trail Blazers,12.5,HOME,13.75,AWAY,1.25
+Isaiah Hartenstein,New York Knicks,16.72,HOME,17.97,AWAY,1.25
+Tyler Herro,Miami Heat,18.32,HOME,19.57,AWAY,1.25
+Isaiah Thomas,Phoenix Suns,1.5,HOME,0.25,AWAY,1.25
+Jules Bernard,Washington Wizards,3.12,HOME,4.36,AWAY,1.2400000000000002
+Tosan Evbuomwan,Detroit Pistons,9.57,HOME,8.33,AWAY,1.2400000000000002
+Jabari Walker,Portland Trail Blazers,12.95,HOME,11.71,AWAY,1.2399999999999984
+Shai Gilgeous-Alexander,Oklahoma City Thunder,31.59,HOME,32.82,AWAY,1.2300000000000004
+Dennis Smith Jr.,Brooklyn Nets,10.18,HOME,8.96,AWAY,1.2199999999999989
+Bismack Biyombo,Memphis Grizzlies,10.33,HOME,11.53,AWAY,1.1999999999999993
+Spencer Dinwiddie,Los Angeles Lakers,8.25,HOME,7.06,AWAY,1.1900000000000004
+Cory Joseph,Golden State Warriors,2.67,HOME,3.86,AWAY,1.19
+Collin Sexton,Utah Jazz,17.03,HOME,18.22,AWAY,1.1899999999999977
+Georges Niang,Cleveland Cavaliers,8.74,HOME,9.92,AWAY,1.1799999999999997
+Bam Adebayo,Miami Heat,25.72,HOME,24.54,AWAY,1.1799999999999997
+Isaiah Jackson,Indiana Pacers,9.71,HOME,10.88,AWAY,1.17
+Drew Eubanks,Phoenix Suns,9.56,HOME,8.39,AWAY,1.17
+Jordan Nwora,Toronto Raptors,8.18,HOME,9.35,AWAY,1.17
+Jaden Ivey,Detroit Pistons,13.86,HOME,12.7,AWAY,1.1600000000000001
+Jordan McLaughlin,Minnesota Timberwolves,6.23,HOME,5.08,AWAY,1.1500000000000004
+Mark Williams,Charlotte Hornets,20.42,HOME,21.57,AWAY,1.1499999999999986
+Jose Alvarado,New Orleans Pelicans,8.65,HOME,7.52,AWAY,1.1300000000000008
+DeAndre Jordan,Denver Nuggets,6.87,HOME,8.0,AWAY,1.13
+Luka Samanic,Utah Jazz,4.63,HOME,3.5,AWAY,1.13
+Killian Hayes,Detroit Pistons,10.95,HOME,9.82,AWAY,1.129999999999999
+Jaxson Hayes,Los Angeles Lakers,7.6,HOME,6.48,AWAY,1.1199999999999992
+Gradey Dick,Toronto Raptors,7.81,HOME,6.73,AWAY,1.0799999999999992
+Buddy Hield,Indiana Pacers,13.04,HOME,11.96,AWAY,1.0799999999999983
+Torrey Craig,Chicago Bulls,8.96,HOME,7.89,AWAY,1.0700000000000012
+Xavier Tillman,Memphis Grizzlies,8.67,HOME,9.74,AWAY,1.0700000000000003
+Omer Yurtseven,Utah Jazz,7.95,HOME,6.88,AWAY,1.0700000000000003
+Anthony Black,Orlando Magic,6.17,HOME,5.1,AWAY,1.0700000000000003
+Javon Freeman-Liberty,Toronto Raptors,8.57,HOME,7.5,AWAY,1.0700000000000003
+Gary Payton II,Golden State Warriors,7.12,HOME,8.19,AWAY,1.0699999999999994
+Doug McDermott,San Antonio Spurs,5.86,HOME,4.8,AWAY,1.0600000000000005
+Daniel Theis,LA Clippers,10.17,HOME,9.11,AWAY,1.0600000000000005
+Jordan Hawkins,New Orleans Pelicans,5.94,HOME,7.0,AWAY,1.0599999999999996
+Kelly Olynyk,Utah Jazz,13.83,HOME,14.88,AWAY,1.0500000000000007
+Nate Hinton,Houston Rockets,3.54,HOME,2.5,AWAY,1.04
+Dean Wade,Cleveland Cavaliers,8.96,HOME,7.93,AWAY,1.0300000000000011
+Dalano Banton,Boston Celtics,2.4,HOME,3.43,AWAY,1.0300000000000002
+Luka Garza,Minnesota Timberwolves,3.07,HOME,4.1,AWAY,1.0299999999999998
+Caris LeVert,Cleveland Cavaliers,14.97,HOME,16.0,AWAY,1.0299999999999994
+KJ Martin,Philadelphia 76ers,5.67,HOME,4.65,AWAY,1.0199999999999996
+Trey Lyles,Sacramento Kings,9.9,HOME,8.89,AWAY,1.0099999999999998
+Jalen Johnson,Atlanta Hawks,21.27,HOME,22.27,AWAY,1.0
+Danilo Gallinari,Detroit Pistons,11.0,HOME,12.0,AWAY,1.0
+Adama Sanogo,Chicago Bulls,5.33,HOME,6.33,AWAY,1.0
+Sidy Cissoko,San Antonio Spurs,4.83,HOME,5.83,AWAY,1.0
+Usman Garuba,Golden State Warriors,0.5,HOME,1.5,AWAY,1.0
+Seth Lundy,Atlanta Hawks,1.33,HOME,0.33,AWAY,1.0
+Filip Petrusev,Sacramento Kings,0.0,HOME,1.0,AWAY,1.0
+Miles McBride,New York Knicks,7.61,HOME,8.6,AWAY,0.9899999999999993
+Dereck Lively II,Dallas Mavericks,16.29,HOME,15.3,AWAY,0.9899999999999984
+Grant Williams,Dallas Mavericks,8.67,HOME,9.65,AWAY,0.9800000000000004
+Jordan Goodwin,Phoenix Suns,7.41,HOME,6.43,AWAY,0.9800000000000004
+Oshae Brissett,Boston Celtics,5.95,HOME,4.97,AWAY,0.9800000000000004
+Wendell Moore Jr.,Minnesota Timberwolves,1.47,HOME,0.5,AWAY,0.97
+Norman Powell,LA Clippers,11.37,HOME,12.33,AWAY,0.9600000000000009
+Jalen McDaniels,Toronto Raptors,3.38,HOME,2.42,AWAY,0.96
+Danilo Gallinari,Milwaukee Bucks,3.33,HOME,2.38,AWAY,0.9500000000000002
+Evan Mobley,Cleveland Cavaliers,22.73,HOME,23.67,AWAY,0.9400000000000013
+Tre Mann,Charlotte Hornets,16.0,HOME,15.06,AWAY,0.9399999999999995
+Taurean Prince,Los Angeles Lakers,8.83,HOME,9.77,AWAY,0.9399999999999995
+Ashton Hagans,Portland Trail Blazers,6.23,HOME,7.17,AWAY,0.9399999999999995
+Colby Jones,Sacramento Kings,2.08,HOME,3.0,AWAY,0.9199999999999999
+Gary Trent Jr.,Toronto Raptors,10.97,HOME,11.89,AWAY,0.9199999999999999
+Jonathan Isaac,Orlando Magic,9.96,HOME,10.87,AWAY,0.9099999999999984
+Jock Landale,Houston Rockets,7.9,HOME,7.0,AWAY,0.9000000000000004
+Cole Anthony,Orlando Magic,11.72,HOME,12.62,AWAY,0.8999999999999986
+Luke Kennard,Memphis Grizzlies,12.47,HOME,11.59,AWAY,0.8800000000000008
+Dwight Powell,Dallas Mavericks,7.71,HOME,6.83,AWAY,0.8799999999999999
+Jeremy Sochan,San Antonio Spurs,15.06,HOME,14.2,AWAY,0.8600000000000012
+Derrick Jones Jr.,Dallas Mavericks,9.95,HOME,9.09,AWAY,0.8599999999999994
+Luguentz Dort,Oklahoma City Thunder,11.03,HOME,11.88,AWAY,0.8500000000000014
+Grant Williams,Charlotte Hornets,16.23,HOME,15.38,AWAY,0.8499999999999996
+Zion Williamson,New Orleans Pelicans,23.55,HOME,24.39,AWAY,0.8399999999999999
+Simone Fontecchio,Utah Jazz,9.29,HOME,10.12,AWAY,0.8300000000000001
+Alec Burks,New York Knicks,3.69,HOME,2.86,AWAY,0.8300000000000001
+Johnny Davis,Washington Wizards,3.06,HOME,3.89,AWAY,0.8300000000000001
+Jalen Pickett,Denver Nuggets,1.46,HOME,2.29,AWAY,0.8300000000000001
+Daniel Gafford,Washington Wizards,20.12,HOME,19.3,AWAY,0.8200000000000003
+Nate Williams,Houston Rockets,3.44,HOME,2.62,AWAY,0.8199999999999998
+Brandin Podziemski,Golden State Warriors,14.16,HOME,13.36,AWAY,0.8000000000000007
+Jay Huff,Denver Nuggets,2.1,HOME,1.3,AWAY,0.8
+Nick Smith Jr.,Charlotte Hornets,4.26,HOME,5.05,AWAY,0.79
+AJ Lawson,Dallas Mavericks,2.74,HOME,3.53,AWAY,0.7899999999999996
+Neemias Queta,Boston Celtics,10.17,HOME,9.38,AWAY,0.7899999999999991
+Immanuel Quickley,New York Knicks,13.5,HOME,12.71,AWAY,0.7899999999999991
+Anthony Davis,Los Angeles Lakers,33.97,HOME,33.19,AWAY,0.7800000000000011
+Kevon Looney,Golden State Warriors,10.88,HOME,10.1,AWAY,0.7800000000000011
+Gary Harris,Orlando Magic,7.08,HOME,7.86,AWAY,0.7800000000000002
+Saddiq Bey,Atlanta Hawks,15.24,HOME,14.47,AWAY,0.7699999999999996
+Patrick Williams,Chicago Bulls,11.14,HOME,10.38,AWAY,0.7599999999999998
+Jordan Ford,Sacramento Kings,2.5,HOME,1.75,AWAY,0.75
+Lauri Markkanen,Utah Jazz,24.85,HOME,24.1,AWAY,0.75
+Mike Muscala,Oklahoma City Thunder,1.89,HOME,1.14,AWAY,0.75
+Domantas Sabonis,Sacramento Kings,32.28,HOME,33.02,AWAY,0.740000000000002
+Danilo Gallinari,Washington Wizards,8.17,HOME,7.43,AWAY,0.7400000000000002
+Mason Plumlee,LA Clippers,9.88,HOME,9.14,AWAY,0.7400000000000002
+Kessler Edwards,Sacramento Kings,2.36,HOME,1.62,AWAY,0.7399999999999998
+Cameron Payne,Milwaukee Bucks,7.32,HOME,6.59,AWAY,0.7300000000000004
+Justin Minaya,Portland Trail Blazers,3.0,HOME,2.29,AWAY,0.71
+James Bouknight,Charlotte Hornets,3.33,HOME,2.62,AWAY,0.71
+Donte DiVincenzo,New York Knicks,14.68,HOME,15.38,AWAY,0.7000000000000011
+Jacob Gilyard,Memphis Grizzlies,7.53,HOME,6.83,AWAY,0.7000000000000002
+Bryce McGowens,Charlotte Hornets,5.53,HOME,4.85,AWAY,0.6800000000000006
+Hunter Tyson,Denver Nuggets,0.62,HOME,1.3,AWAY,0.68
+Derrick White,Boston Celtics,18.43,HOME,19.11,AWAY,0.6799999999999997
+Andrew Funk,Chicago Bulls,-0.67,HOME,0.0,AWAY,0.67
+Isaiah Joe,Oklahoma City Thunder,8.89,HOME,8.22,AWAY,0.6699999999999999
+Peyton Watson,Denver Nuggets,8.15,HOME,8.82,AWAY,0.6699999999999999
+Dyson Daniels,New Orleans Pelicans,10.38,HOME,9.72,AWAY,0.6600000000000001
+Jett Howard,Orlando Magic,1.57,HOME,0.91,AWAY,0.66
+Alex Len,Sacramento Kings,5.22,HOME,5.87,AWAY,0.6500000000000004
+Dennis Schroder,Toronto Raptors,15.82,HOME,15.17,AWAY,0.6500000000000004
+Terry Taylor,Chicago Bulls,2.75,HOME,2.11,AWAY,0.6400000000000001
+Sam Merrill,Cleveland Cavaliers,7.58,HOME,8.21,AWAY,0.6300000000000008
+Taylor Hendricks,Utah Jazz,10.41,HOME,9.78,AWAY,0.6300000000000008
+Julian Champagnie,San Antonio Spurs,8.31,HOME,7.68,AWAY,0.6300000000000008
+Caleb Houstan,Orlando Magic,3.7,HOME,4.31,AWAY,0.6099999999999994
+Gordon Hayward,Oklahoma City Thunder,6.87,HOME,6.27,AWAY,0.6000000000000005
+Troy Brown Jr.,Minnesota Timberwolves,5.28,HOME,4.68,AWAY,0.6000000000000005
+Brice Sensabaugh,Utah Jazz,7.6,HOME,7.0,AWAY,0.5999999999999996
+Jahmi'us Ramsey,Toronto Raptors,8.0,HOME,7.4,AWAY,0.5999999999999996
+Malachi Flynn,Detroit Pistons,6.9,HOME,7.5,AWAY,0.5999999999999996
+OG Anunoby,Toronto Raptors,14.79,HOME,15.38,AWAY,0.5900000000000016
+Larry Nance Jr.,New Orleans Pelicans,11.48,HOME,10.89,AWAY,0.5899999999999999
+AJ Griffin,Atlanta Hawks,1.33,HOME,0.75,AWAY,0.5800000000000001
+Kentavious Caldwell-Pope,Denver Nuggets,11.67,HOME,11.09,AWAY,0.5800000000000001
+Herbert Jones,New Orleans Pelicans,14.29,HOME,13.71,AWAY,0.5799999999999983
+De'Aaron Fox,Sacramento Kings,24.22,HOME,23.65,AWAY,0.5700000000000003
+Dillon Brooks,Houston Rockets,11.4,HOME,10.83,AWAY,0.5700000000000003
+Ziaire Williams,Memphis Grizzlies,7.76,HOME,8.33,AWAY,0.5700000000000003
+Shake Milton,Minnesota Timberwolves,4.15,HOME,4.72,AWAY,0.5699999999999994
+Trayce Jackson-Davis,Golden State Warriors,13.0,HOME,12.45,AWAY,0.5500000000000007
+Nathan Mensah,Charlotte Hornets,4.0,HOME,3.45,AWAY,0.5499999999999998
+Andre Jackson Jr.,Milwaukee Bucks,3.78,HOME,4.32,AWAY,0.5400000000000005
+Cade Cunningham,Detroit Pistons,21.63,HOME,21.09,AWAY,0.5399999999999991
+Jaime Jaquez Jr.,Miami Heat,12.64,HOME,13.17,AWAY,0.5299999999999994
+Alec Burks,Detroit Pistons,10.43,HOME,10.95,AWAY,0.5199999999999996
+Richaun Holmes,Dallas Mavericks,5.67,HOME,6.18,AWAY,0.5099999999999998
+Harry Giles III,Los Angeles Lakers,0.0,HOME,0.5,AWAY,0.5
+Keyontae Johnson,Oklahoma City Thunder,1.0,HOME,1.5,AWAY,0.5
+Jaylen Nowell,Detroit Pistons,7.5,HOME,8.0,AWAY,0.5
+Yuta Watanabe,Memphis Grizzlies,2.0,HOME,2.5,AWAY,0.5
+Kristaps Porzingis,Boston Celtics,22.95,HOME,23.44,AWAY,0.490000000000002
+Patrick Beverley,Milwaukee Bucks,9.69,HOME,9.2,AWAY,0.4900000000000002
+Tari Eason,Houston Rockets,14.38,HOME,13.89,AWAY,0.4900000000000002
+Josh Minott,Minnesota Timberwolves,1.74,HOME,2.23,AWAY,0.49
+Bruno Fernando,Atlanta Hawks,9.09,HOME,9.57,AWAY,0.4800000000000004
+Markieff Morris,Dallas Mavericks,2.45,HOME,2.93,AWAY,0.48
+Quentin Grimes,New York Knicks,6.35,HOME,6.82,AWAY,0.47000000000000064
+Haywood Highsmith,Miami Heat,8.47,HOME,8.0,AWAY,0.47000000000000064
+Juan Toscano-Anderson,Sacramento Kings,1.67,HOME,1.2,AWAY,0.47
+Desmond Bane,Memphis Grizzlies,22.32,HOME,21.85,AWAY,0.46999999999999886
+Christian Wood,Los Angeles Lakers,9.86,HOME,9.39,AWAY,0.46999999999999886
+Joe Harris,Detroit Pistons,2.57,HOME,2.11,AWAY,0.45999999999999996
+Tyrese Maxey,Philadelphia 76ers,23.97,HOME,23.51,AWAY,0.4599999999999973
+Rayan Rupert,Portland Trail Blazers,4.43,HOME,4.88,AWAY,0.4500000000000002
+Devin Vassell,San Antonio Spurs,18.14,HOME,18.59,AWAY,0.4499999999999993
+CJ McCollum,New Orleans Pelicans,19.66,HOME,20.1,AWAY,0.4400000000000013
+Coby White,Chicago Bulls,18.33,HOME,18.77,AWAY,0.4400000000000013
+Taj Gibson,New York Knicks,2.36,HOME,2.8,AWAY,0.43999999999999995
+Moses Moody,Golden State Warriors,8.76,HOME,8.32,AWAY,0.4399999999999995
+Keita Bates-Diop,Brooklyn Nets,2.0,HOME,2.43,AWAY,0.43000000000000016
+Aaron Gordon,Denver Nuggets,18.02,HOME,18.45,AWAY,0.4299999999999997
+Rudy Gobert,Minnesota Timberwolves,25.1,HOME,24.67,AWAY,0.4299999999999997
+Orlando Robinson,Miami Heat,4.58,HOME,5.0,AWAY,0.41999999999999993
+Ochai Agbaji,Utah Jazz,6.5,HOME,6.08,AWAY,0.41999999999999993
+Paolo Banchero,Orlando Magic,21.97,HOME,21.55,AWAY,0.41999999999999815
+Dejounte Murray,Atlanta Hawks,22.37,HOME,22.78,AWAY,0.41000000000000014
+Lester Quinones,Golden State Warriors,4.35,HOME,4.75,AWAY,0.40000000000000036
+Al Horford,Boston Celtics,15.42,HOME,15.02,AWAY,0.40000000000000036
+Landry Shamet,Washington Wizards,6.06,HOME,6.46,AWAY,0.40000000000000036
+Trent Forrest,Atlanta Hawks,4.4,HOME,4.0,AWAY,0.40000000000000036
+Jusuf Nurkic,Phoenix Suns,20.63,HOME,20.24,AWAY,0.39000000000000057
+Tobias Harris,Philadelphia 76ers,19.97,HOME,19.58,AWAY,0.39000000000000057
+Bruce Brown,Indiana Pacers,14.56,HOME,14.18,AWAY,0.3800000000000008
+Chimezie Metu,Detroit Pistons,14.88,HOME,14.5,AWAY,0.3800000000000008
+Vasilije Micic,Charlotte Hornets,12.31,HOME,11.94,AWAY,0.370000000000001
+Christian Braun,Denver Nuggets,9.4,HOME,9.03,AWAY,0.370000000000001
+Cody Zeller,New Orleans Pelicans,4.19,HOME,3.82,AWAY,0.37000000000000055
+Reggie Bullock Jr.,Houston Rockets,3.42,HOME,3.05,AWAY,0.3700000000000001
+Gabe Vincent,Los Angeles Lakers,3.17,HOME,2.8,AWAY,0.3700000000000001
+Fred VanVleet,Houston Rockets,21.31,HOME,20.94,AWAY,0.36999999999999744
+Josh Okogie,Phoenix Suns,6.61,HOME,6.25,AWAY,0.3600000000000003
+Reggie Jackson,Denver Nuggets,9.87,HOME,9.51,AWAY,0.35999999999999943
+Pascal Siakam,Indiana Pacers,24.26,HOME,23.91,AWAY,0.3500000000000014
+Eugene Omoruyi,Washington Wizards,5.3,HOME,5.65,AWAY,0.35000000000000053
+Tre Jones,San Antonio Spurs,15.33,HOME,15.68,AWAY,0.34999999999999964
+Bojan Bogdanovic,New York Knicks,6.83,HOME,7.18,AWAY,0.34999999999999964
+Dorian Finney-Smith,Brooklyn Nets,10.91,HOME,10.56,AWAY,0.34999999999999964
+AJ Green,Milwaukee Bucks,4.31,HOME,3.96,AWAY,0.34999999999999964
+Isaiah Livers,Detroit Pistons,4.79,HOME,4.44,AWAY,0.34999999999999964
+Craig Porter Jr.,Cleveland Cavaliers,7.54,HOME,7.2,AWAY,0.33999999999999986
+Pat Connaughton,Milwaukee Bucks,8.12,HOME,8.45,AWAY,0.33000000000000007
+Julian Phillips,Chicago Bulls,2.07,HOME,2.4,AWAY,0.33000000000000007
+Thanasis Antetokounmpo,Milwaukee Bucks,1.11,HOME,1.44,AWAY,0.32999999999999985
+Amir Coffey,LA Clippers,7.14,HOME,7.46,AWAY,0.3200000000000003
+Chris Livingston,Milwaukee Bucks,1.91,HOME,1.6,AWAY,0.30999999999999983
+LaMelo Ball,Charlotte Hornets,23.81,HOME,23.5,AWAY,0.3099999999999987
+Mikal Bridges,Brooklyn Nets,17.36,HOME,17.66,AWAY,0.3000000000000007
+Malachi Flynn,Toronto Raptors,6.29,HOME,6.59,AWAY,0.2999999999999998
+Gordon Hayward,Charlotte Hornets,16.4,HOME,16.1,AWAY,0.29999999999999716
+Braxton Key,Denver Nuggets,1.83,HOME,2.12,AWAY,0.29000000000000004
+Aleksej Pokusevski,Oklahoma City Thunder,1.0,HOME,1.29,AWAY,0.29000000000000004
+Precious Achiuwa,Toronto Raptors,10.33,HOME,10.62,AWAY,0.28999999999999915
+Mitchell Robinson,New York Knicks,13.29,HOME,13.0,AWAY,0.28999999999999915
+Jalen Suggs,Orlando Magic,12.94,HOME,13.22,AWAY,0.28000000000000114
+LeBron James,Los Angeles Lakers,30.1,HOME,29.82,AWAY,0.28000000000000114
+Jerami Grant,Portland Trail Blazers,16.83,HOME,17.11,AWAY,0.28000000000000114
+Skylar Mays,Portland Trail Blazers,7.5,HOME,7.22,AWAY,0.28000000000000025
+Otto Porter Jr.,Toronto Raptors,4.5,HOME,4.22,AWAY,0.28000000000000025
+Keldon Johnson,San Antonio Spurs,15.94,HOME,16.21,AWAY,0.27000000000000135
+Isaac Okoro,Cleveland Cavaliers,10.77,HOME,10.5,AWAY,0.2699999999999996
+Jae'Sean Tate,Houston Rockets,6.22,HOME,6.48,AWAY,0.2600000000000007
+Cameron Payne,Philadelphia 76ers,8.8,HOME,9.06,AWAY,0.2599999999999998
+Patrick Beverley,Philadelphia 76ers,9.22,HOME,8.96,AWAY,0.2599999999999998
+Aaron Nesmith,Indiana Pacers,13.19,HOME,13.44,AWAY,0.25
+Saben Lee,Phoenix Suns,3.83,HOME,3.58,AWAY,0.25
+Frank Ntilikina,Charlotte Hornets,1.25,HOME,1.0,AWAY,0.25
+Mike Muscala,Washington Wizards,5.17,HOME,5.42,AWAY,0.25
+Evan Fournier,Detroit Pistons,6.29,HOME,6.53,AWAY,0.2400000000000002
+Jaylin Williams,Oklahoma City Thunder,7.12,HOME,7.36,AWAY,0.2400000000000002
+RJ Barrett,New York Knicks,14.62,HOME,14.38,AWAY,0.23999999999999844
+Corey Kispert,Washington Wizards,12.11,HOME,11.88,AWAY,0.22999999999999865
+Maxwell Lewis,Los Angeles Lakers,0.0,HOME,-0.22,AWAY,0.22
+Tristan Thompson,Cleveland Cavaliers,6.22,HOME,6.0,AWAY,0.21999999999999975
+Cameron Johnson,Brooklyn Nets,14.0,HOME,13.79,AWAY,0.21000000000000085
+Xavier Moon,LA Clippers,2.8,HOME,3.0,AWAY,0.20000000000000018
+Jalen Duren,Detroit Pistons,22.97,HOME,22.77,AWAY,0.1999999999999993
+Sam Hauser,Boston Celtics,9.9,HOME,10.1,AWAY,0.1999999999999993
+Yuta Watanabe,Phoenix Suns,3.3,HOME,3.11,AWAY,0.18999999999999995
+Julian Strawther,Denver Nuggets,3.67,HOME,3.85,AWAY,0.18000000000000016
+Davion Mitchell,Sacramento Kings,5.41,HOME,5.58,AWAY,0.16999999999999993
+Ricky Council IV,Philadelphia 76ers,5.0,HOME,5.17,AWAY,0.16999999999999993
+Daishen Nix,Minnesota Timberwolves,1.29,HOME,1.12,AWAY,0.16999999999999993
+James Johnson,Indiana Pacers,1.5,HOME,1.67,AWAY,0.16999999999999993
+Kobe Brown,LA Clippers,2.88,HOME,3.04,AWAY,0.16000000000000014
+Jerome Robinson,Golden State Warriors,0.71,HOME,0.87,AWAY,0.16000000000000003
+Jaden Springer,Philadelphia 76ers,4.69,HOME,4.84,AWAY,0.14999999999999947
+Colin Castleton,Los Angeles Lakers,2.0,HOME,1.86,AWAY,0.1399999999999999
+Tim Hardaway Jr.,Dallas Mavericks,11.48,HOME,11.35,AWAY,0.13000000000000078
+Terance Mann,LA Clippers,10.4,HOME,10.53,AWAY,0.129999999999999
+Jericho Sims,New York Knicks,5.6,HOME,5.5,AWAY,0.09999999999999964
+Brook Lopez,Milwaukee Bucks,16.07,HOME,15.97,AWAY,0.09999999999999964
+Justin Holiday,Denver Nuggets,5.06,HOME,5.15,AWAY,0.09000000000000075
+Robin Lopez,Milwaukee Bucks,1.0,HOME,1.09,AWAY,0.09000000000000008
+Ousmane Dieng,Oklahoma City Thunder,4.38,HOME,4.47,AWAY,0.08999999999999986
+Danuel House Jr.,Philadelphia 76ers,4.71,HOME,4.8,AWAY,0.08999999999999986
+Mo Bamba,Philadelphia 76ers,8.07,HOME,8.0,AWAY,0.07000000000000028
+Cason Wallace,Oklahoma City Thunder,8.61,HOME,8.54,AWAY,0.07000000000000028
+Jabari Smith Jr.,Houston Rockets,17.27,HOME,17.34,AWAY,0.07000000000000028
+Pascal Siakam,Toronto Raptors,23.32,HOME,23.25,AWAY,0.07000000000000028
+Chimezie Metu,Phoenix Suns,6.61,HOME,6.68,AWAY,0.0699999999999994
+RJ Barrett,Toronto Raptors,21.88,HOME,21.94,AWAY,0.060000000000002274
+Lindy Waters III,Oklahoma City Thunder,4.0,HOME,3.94,AWAY,0.06000000000000005
+Jarace Walker,Indiana Pacers,5.0,HOME,5.06,AWAY,0.05999999999999961
+Austin Reaves,Los Angeles Lakers,18.22,HOME,18.27,AWAY,0.05000000000000071
+DeMar DeRozan,Chicago Bulls,23.61,HOME,23.56,AWAY,0.05000000000000071
+Terquavion Smith,Philadelphia 76ers,2.4,HOME,2.45,AWAY,0.050000000000000266
+Damian Jones,Cleveland Cavaliers,4.1,HOME,4.05,AWAY,0.04999999999999982
+Olivier Sarr,Oklahoma City Thunder,4.22,HOME,4.17,AWAY,0.04999999999999982
+Xavier Tillman,Boston Celtics,6.57,HOME,6.62,AWAY,0.04999999999999982
+Anthony Edwards,Minnesota Timberwolves,23.6,HOME,23.56,AWAY,0.0400000000000027
+Jarred Vanderbilt,Los Angeles Lakers,9.29,HOME,9.33,AWAY,0.040000000000000924
+Jaden Hardy,Dallas Mavericks,5.95,HOME,5.91,AWAY,0.040000000000000036
+Nicolas Batum,Philadelphia 76ers,10.11,HOME,10.07,AWAY,0.03999999999999915
+Nikola Jovic,Miami Heat,10.05,HOME,10.08,AWAY,0.02999999999999936
+Kris Dunn,Utah Jazz,9.7,HOME,9.72,AWAY,0.02000000000000135
+Josh Richardson,Miami Heat,10.64,HOME,10.62,AWAY,0.02000000000000135
+Cam Thomas,Brooklyn Nets,16.86,HOME,16.87,AWAY,0.010000000000001563
+Charlie Brown Jr.,New York Knicks,0.0,HOME,0.0,AWAY,0.0
+Mamadi Diakite,New York Knicks,0.0,HOME,0.0,AWAY,0.0
+Drew Peterson,Boston Celtics,4.0,HOME,4.0,AWAY,0.0
